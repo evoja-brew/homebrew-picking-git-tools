@@ -1,6 +1,6 @@
 cask "evj-hello" do
-  version "0.0.0-0"
-  sha256 "e119eddfa348af7b2b81b8ed0cef7de61a13a8f87a77eeac8f7b5b3d357ac130"
+  version "0.0.0-1"
+  sha256 "2484a1a3b294e13982a651b63f8bf355af86bf6f9f09ae8e42a8b52e472a411f"
 
   url "https://github.com/evoja-brew/picking-git-tools/releases/download/v#{version}/evj-hello-macos-universal.tar.gz"
   name "evj-hello"
