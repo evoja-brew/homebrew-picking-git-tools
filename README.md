@@ -1,4 +1,4 @@
-# evoja-brew/picking-git-tools
+# evoja-brew/homebrew-picking-git-tools
 
 Minimal Homebrew tap with casks.
 
@@ -10,6 +10,11 @@ Minimal Homebrew tap with casks.
 
 ```bash
 brew tap evoja-brew/picking-git-tools
+```
+
+> Note: Homebrew automatically strips the `homebrew-` prefix, so the tap name remains `evoja-brew/picking-git-tools`.
+
+```bash
 brew install --cask evj-hello
 ```
 
