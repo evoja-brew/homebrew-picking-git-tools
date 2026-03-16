@@ -1,4 +1,4 @@
-# evoja-brew/homebrew-picking-git-tools
+# evoja-brew/homebrew-tap
 
 Minimal Homebrew tap with casks.
 
