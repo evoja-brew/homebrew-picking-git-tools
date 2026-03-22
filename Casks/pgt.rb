@@ -10,4 +10,5 @@ cask "pgt" do
     binary "pgt"
   binary "pgt-amend"
   binary "pgt-log"
+  binary "pgt-moved-files"
 end
