@@ -1,6 +1,6 @@
 cask "sniplib" do
-  version "0.0.1"
-  sha256 "a4e1f95a371d959d8812cfd530e1a2555d3034afe0f9f6f8da36c7cb5626b54a"
+  version "0.0.2"
+  sha256 "21ba6199abc82d023ed6ca2510b5d355b805852137bf852f3c8a1b6046d21d5f"
 
   url "https://github.com/evoja-brew/homebrew-tap/releases/download/sniplib/#{version.sub('.', '/')}/sniplib-macos-universal.tar.gz"
   name "sniplib"
