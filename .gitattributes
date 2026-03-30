@@ -1,0 +1,7 @@
+# Binary package files — avoid diff noise
+apt/pool/**/*.deb binary
+apt/dists/**/Packages.gz binary
+apt/dists/**/InRelease binary
+apt/dists/**/Release.gpg binary
+apk/**/*.apk binary
+apk/**/APKINDEX.tar.gz binary
