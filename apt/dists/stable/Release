@@ -1,23 +1,23 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Fri, 03 Apr 2026 09:45:49 +0000
+Date: Mon, 06 Apr 2026 08:51:18 +0000
 Label: evoja-brew
 Origin: evoja-brew
 Suite: stable
 MD5Sum:
- 20770a88183c6198e203377f6e04d2bb              142 Release
- 19e036c2cac9736accbf69a397f036c9              493 main/binary-all/Packages
- 3a1eaf1e823806e70b4bfd22684be6ef              377 main/binary-all/Packages.gz
+ fd6bb5ef8a2ff273aedffaac3257bb71              142 Release
+ 0769000babdae4db7996c9fb6fededdf              493 main/binary-all/Packages
+ 2ccdb96959a1f311b585066194e9d500              378 main/binary-all/Packages.gz
 SHA1:
- 544db7975a5b4c7caf06a313f34dbb4380a5b739              142 Release
- a20e8a8cb076f4e0954aad012a44c1d2b53b47fb              493 main/binary-all/Packages
- e192cce7de71681946dd24d39b821056d49bfc2f              377 main/binary-all/Packages.gz
+ db50df5c8e126422eb90365bed04ef93086b9ad9              142 Release
+ b8dad01bf6f7d4875f92d016b76c7f368b0bb30a              493 main/binary-all/Packages
+ c6f42f9587b335e90618daa00d51303b2228af02              378 main/binary-all/Packages.gz
 SHA256:
- da8ffa8287068c8c0a805a0492338a71bad57b614d81a1fb8b77180036039279              142 Release
- f3c655d1004039d39afbbf75c5b0ce0ca6f55a003ad393cdb6c1e87d05f8384c              493 main/binary-all/Packages
- 303a0b11471bc37702b1ca8c3c42d05fe3e024d94f03caac0a5ea3b434c23a34              377 main/binary-all/Packages.gz
+ 603cbd5eff35196190bd4019b01269a8a99ffeed48e7cbce5cf55714a35587d9              142 Release
+ 12936358f112818967f4257df4fdd59536b7ac03497ce13c4a3b6ec4849347fe              493 main/binary-all/Packages
+ ab86ab752d453cd10885d4005bc5c42a5c03afaf6bf5883872612bd64543233e              378 main/binary-all/Packages.gz
 SHA512:
- 6c623607730fe731e4b56f53f662f8705502380a441f28cd0757f15da26bdb3d8267aa8144e1ecd3bb189ffd076535b65d57c06a1820562a31396fc6d3eb310c              142 Release
- 9247e4562ff207b94123e4ab6246fa7e1e6c2c69649785f7ad0ede6ec456a684f23d6e600917eb3796212b6e3dc04e1b581c08449e779d6f56d8dbbdf32a0af9              493 main/binary-all/Packages
- e4da112fddd92e4781e159ca597ca56f1876a6156eb30fffa2d4011c6375d09dc724e27f9c7ba22cc171b6e5025e27c296ddb2605b669eeef511902abfe7c5e7              377 main/binary-all/Packages.gz
+ 9b282f3511bad38bd65eadcd2396c95116ac6fda09862a15d484746c970110fdf7df561d8455f2e025d3f15ccef8ffd8e70c74462aa5baf9eaa95122ed49a9f7              142 Release
+ dc03f980fb563e69112bf18777f83e26149788cf28ec9668f60196be535f9221225b96e1f6f19ccff9e4a888562d936fdadf84baab1d7bdf9b93701f147519cf              493 main/binary-all/Packages
+ 64d59d6dcc9db8523001d8039d14d5def02d5cded7551fc3ae9fac5e3513a38a6df5bb7f998eb261eaa7914f38bdcad510f9136aea47d066076b549b3cd1671d              378 main/binary-all/Packages.gz
