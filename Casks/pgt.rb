@@ -1,6 +1,6 @@
 cask "pgt" do
-  version "0.0.20"
-  sha256 "dafaafde46514aa23222184c13b59df3eb0ff07d726173a5edfd66f68b177a22"
+  version "0.0.21"
+  sha256 "05d488d1b75826040886882f18ac3cb7251d4326b23c99692d905dc3398a53b0"
 
   url "https://github.com/evoja-brew/homebrew-tap/releases/download/pgt/#{version.sub('.', '/')}/pgt-macos-universal.tar.gz"
   name "pgt"
@@ -17,5 +17,6 @@ cask "pgt" do
   binary "pgt-tah-cp"
   binary "pgt-tah-isolate"
   binary "pgt-tah-mv"
+  binary "pgt-tah-rebase"
   binary "pgt-tah-rm"
 end
