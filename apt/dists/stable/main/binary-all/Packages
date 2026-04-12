@@ -1,14 +1,14 @@
 Package: pgt
-Version: 0.0.27
+Version: 0.0.28
 Architecture: all
 Maintainer: evoja-brew <evoja-brew@users.noreply.github.com>
 Installed-Size: 200
 Depends: bash, git, python3
-Filename: pool/main/p/pgt/pgt_0.0.27_all.deb
-Size: 25124
-MD5sum: 76a76c01ed08fc268167a598be6b136d
-SHA1: 3d4e9c2990a34c46e3b7835fa2210fbc5b275a6d
-SHA256: 194f51906f29ca4fbdfc26688d113be51bbf0a61aaa4b0e67fdc37f83306888a
+Filename: pool/main/p/pgt/pgt_0.0.28_all.deb
+Size: 25198
+MD5sum: 0f7020edd3b88435f54070be90904f04
+SHA1: 02541a3f9992db818d99460c10f24c955135518a
+SHA256: baf29b447ce5d0f39b08d27f03f774a0101677d32adb39b5739f76276272ebf6
 Section: devel
 Priority: optional
 Homepage: https://github.com/evoja-brew/homebrew-tap
