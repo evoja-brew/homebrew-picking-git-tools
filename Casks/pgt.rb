@@ -1,6 +1,6 @@
 cask "pgt" do
-  version "0.0.28"
-  sha256 "5bfb443fa310271ce44b9a6d54363fe1205611b28c287b1cf7412171fb958e31"
+  version "0.0.29"
+  sha256 "31e10a7fef9f37bf872274081b033da5a4f753230622c3548d866d39d677f23e"
 
   url "https://github.com/evoja-brew/homebrew-tap/releases/download/pgt/#{version.sub('.', '/')}/pgt-macos-universal.tar.gz"
   name "pgt"
