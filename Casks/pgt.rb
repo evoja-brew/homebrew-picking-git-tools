@@ -1,6 +1,6 @@
 cask "pgt" do
-  version "0.0.35"
-  sha256 "a49064a62f174f19277ac1a22900e02daffe8264d94bef88186da1a96c87d236"
+  version "0.0.36"
+  sha256 "43748183f2b2488b852db59dc4aa2a39288c1b46038cc5f6c924b28ddfcd1a2c"
 
   url "https://github.com/evoja-brew/homebrew-tap/releases/download/pgt/#{version.sub('.', '/')}/pgt-macos-universal.tar.gz"
   name "pgt"
@@ -9,10 +9,16 @@ cask "pgt" do
 
   binary "pgt"
   binary "pgt-amend"
+  binary "pgt-apply-meta"
+  binary "pgt-cherrypick"
+  binary "pgt-collapse-events"
+  binary "pgt-collapse-timestamp"
   binary "pgt-dilate"
   binary "pgt-log"
   binary "pgt-moved-code"
   binary "pgt-moved-files"
+  binary "pgt-pull-worktrees"
+  binary "pgt-push-worktrees"
   binary "pgt-sort"
   binary "pgt-split"
   binary "pgt-tah"
@@ -21,4 +27,5 @@ cask "pgt" do
   binary "pgt-tah-mv"
   binary "pgt-tah-rebase"
   binary "pgt-tah-rm"
+  binary "pgt-tah-unrename"
 end
