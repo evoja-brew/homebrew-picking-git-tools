@@ -14,3 +14,19 @@ Priority: optional
 Homepage: https://github.com/evoja-brew/homebrew-tap
 Description: CLI tools for pgt
 
+Package: wgt
+Version: 0.0.0
+Architecture: all
+Maintainer: evoja-brew <evoja-brew@users.noreply.github.com>
+Installed-Size: 68
+Depends: bash, git
+Filename: pool/main/w/wgt/wgt_0.0.0_all.deb
+Size: 6340
+MD5sum: c9e903b042b8e9e5aa4486ccf4f6b943
+SHA1: d0d4203763dc8fff146b296fc7e71ce349242850
+SHA256: 95909d4fc0cb670d437c2bf97c013836339b99677f9e3a9539619bc4143cdd57
+Section: devel
+Priority: optional
+Homepage: https://github.com/evoja-brew/homebrew-tap
+Description: CLI tools for wgt
+
