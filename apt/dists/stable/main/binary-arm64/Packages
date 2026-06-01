@@ -1,13 +1,13 @@
 Package: heapster
-Version: 0.0.0-4
+Version: 0.0.0-5
 Architecture: arm64
 Maintainer: evoja-brew <evoja-brew@users.noreply.github.com>
 Installed-Size: 79336
-Filename: pool/main/h/heapster/heapster_0.0.0-4_arm64.deb
-Size: 23716936
-MD5sum: a4cf9b300106477c957d360e7065f7aa
-SHA1: 5981aa2c9263c8e2a1127b75bcab6cc131f44f6e
-SHA256: 346a077d4b07f5ceac2b44fc39203f8281ebb7429058317723906897b4a5cdc4
+Filename: pool/main/h/heapster/heapster_0.0.0-5_arm64.deb
+Size: 23717308
+MD5sum: 6f3c950218d36390887e791ea009ad82
+SHA1: f97b8143d4f60282bbf60e2d314e7388b00599e8
+SHA256: d15ab23d1c621417d889bfe8ce2a3c8baef1d55bafc2ab7e16446af1a73dbf82
 Section: devel
 Priority: optional
 Homepage: https://github.com/evoja-brew/homebrew-tap
