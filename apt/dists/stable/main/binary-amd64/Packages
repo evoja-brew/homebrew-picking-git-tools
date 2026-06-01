@@ -1,0 +1,47 @@
+Package: heapster
+Version: 0.0.0-4
+Architecture: amd64
+Maintainer: evoja-brew <evoja-brew@users.noreply.github.com>
+Installed-Size: 83552
+Filename: pool/main/h/heapster/heapster_0.0.0-4_amd64.deb
+Size: 23919600
+MD5sum: 1b0739492f8754a0becd7e00faa41e32
+SHA1: 24be8c78f90750606211d719173d5b0fe85de68e
+SHA256: 08354a84fcc00a08917cd989d85af63d59f4724d985b8433eeb739f7e99990e8
+Section: devel
+Priority: optional
+Homepage: https://github.com/evoja-brew/homebrew-tap
+Description: Heapster CLI — singleton task MVP with optional localhost JSON-RPC server.
+
+Package: pgt
+Version: 0.0.40
+Architecture: all
+Maintainer: evoja-brew <evoja-brew@users.noreply.github.com>
+Installed-Size: 312
+Depends: bash, git, python3
+Filename: pool/main/p/pgt/pgt_0.0.40_all.deb
+Size: 40000
+MD5sum: 1e3da787c1c19310226eaef37cc10dd8
+SHA1: a2e070e23f79f1418495c835762e86490bbfcaa7
+SHA256: 674fe8c8c0b201a9e7b8cbeab92de0dfb8996385dd954d5a395c18eaa93d2247
+Section: devel
+Priority: optional
+Homepage: https://github.com/evoja-brew/homebrew-tap
+Description: CLI tools for pgt
+
+Package: wgt
+Version: 0.0.0
+Architecture: all
+Maintainer: evoja-brew <evoja-brew@users.noreply.github.com>
+Installed-Size: 68
+Depends: bash, git
+Filename: pool/main/w/wgt/wgt_0.0.0_all.deb
+Size: 6340
+MD5sum: c9e903b042b8e9e5aa4486ccf4f6b943
+SHA1: d0d4203763dc8fff146b296fc7e71ce349242850
+SHA256: 95909d4fc0cb670d437c2bf97c013836339b99677f9e3a9539619bc4143cdd57
+Section: devel
+Priority: optional
+Homepage: https://github.com/evoja-brew/homebrew-tap
+Description: CLI tools for wgt
+
