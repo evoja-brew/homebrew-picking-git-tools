@@ -1,5 +1,5 @@
 cask "heapster" do
-  version "0.0.0-6"
+  version "0.0.0-7"
   name "heapster"
   desc "Heapster CLI — singleton task MVP with optional localhost JSON-RPC server."
   homepage "https://github.com/evoja-brew/homebrew-tap"
