@@ -63,6 +63,26 @@ apk update
 apk add pgt        # or: apk add sniplib
 ```
 
+## Install from a local clone (offline / restricted networks)
+
+If the package repos above are unreachable (e.g. a sandbox blocking the GitHub
+Pages host), clone this repo and install the bundled `.deb`/`.apk` directly —
+cloning only needs `github.com`:
+
+```bash
+git clone --depth 1 https://github.com/evoja-brew/homebrew-tap && cd homebrew-tap
+
+# Debian/Ubuntu — pick the newest bundled .deb
+sudo apt install "./$(ls apt/pool/main/p/pgt/pgt_*.deb | sort -V | tail -1)"
+
+# Alpine — pick the newest .apk (signature isn't pre-trusted when bypassing the index)
+apk add --allow-untrusted "./$(ls apk/v3/main/*/pgt-*.apk | sort -V | tail -1)"
+```
+
+Swap `pgt` for another package; see `apt/pool/` and `apk/v3/main/` for the layout.
+Homebrew is not fully offline — its cask still fetches the archive from GitHub
+Releases at install time.
+
 ## Release flow (private source → public artifact)
 
 1. Build the tool in the private source repository.
